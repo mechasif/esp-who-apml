@@ -2,5 +2,6 @@
     "idf.adapterTargetName": "esp32s3",
     "idf.openOcdConfigs": [
         "board/esp32s3-builtin.cfg"
-    ]
+    ],
+    "cmake.sourceDirectory": "/home/asif/Documents/GitHub/esp-who-apml-private/examples/esp32-s3-eye/main"
 }
