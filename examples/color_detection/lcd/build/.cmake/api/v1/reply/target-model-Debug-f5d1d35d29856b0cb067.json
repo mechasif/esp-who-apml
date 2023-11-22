@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/asif/esp/esp-who/components/esp-sr/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 111,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "model::@6828f65c7fa66837081c",
+	"name" : "model",
+	"paths" : 
+	{
+		"build" : "esp-idf/esp-sr",
+		"source" : "/home/asif/esp/esp-who/components/esp-sr"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

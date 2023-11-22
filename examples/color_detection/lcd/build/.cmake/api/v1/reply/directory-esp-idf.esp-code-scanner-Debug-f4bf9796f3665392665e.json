@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/esp-code-scanner",
+		"source" : "/home/asif/esp/esp-who/components/esp-code-scanner"
+	}
+}
