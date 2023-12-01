@@ -1,4 +1,4 @@
-/* * Data converted from /home/asif/esp/esp-who/examples/color_detection/lcd/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/asif/Documents/GitHub/esp-who-apml/examples/color_detection/lcd/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

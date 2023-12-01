@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/asif/esp/esp-who/examples/color_detection/lcd/build/bootloader/esp-idf/soc/esp32s3/cmake_install.cmake")
+  include("/home/asif/Documents/GitHub/esp-who-apml/examples/color_detection/lcd/build/bootloader/esp-idf/soc/esp32s3/cmake_install.cmake")
 
 endif()
 

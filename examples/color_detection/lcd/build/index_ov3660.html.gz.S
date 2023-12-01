@@ -1,4 +1,4 @@
-/* * Data converted from /home/asif/esp/esp-who/components/modules/web/www/index_ov3660.html.gz
+/* * Data converted from /home/asif/Documents/GitHub/esp-who-apml/components/modules/web/www/index_ov3660.html.gz
  */
 .data
 .section .rodata.embedded

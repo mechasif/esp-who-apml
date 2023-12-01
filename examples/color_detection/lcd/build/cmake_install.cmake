@@ -1,4 +1,4 @@
-# Install script for directory: /home/asif/esp/esp-who/examples/color_detection/lcd
+# Install script for directory: /home/asif/Documents/GitHub/esp-who-apml/examples/color_detection/lcd
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -12,7 +12,7 @@ if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
     string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
   else()
-    set(CMAKE_INSTALL_CONFIG_NAME "Debug")
+    set(CMAKE_INSTALL_CONFIG_NAME "")
   endif()
   message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
 endif()
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/asif/esp/esp-who/examples/color_detection/lcd/build/esp-idf/cmake_install.cmake")
+  include("/home/asif/Documents/GitHub/esp-who-apml/examples/color_detection/lcd/build/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/asif/esp/esp-who/examples/color_detection/lcd/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/asif/Documents/GitHub/esp-who-apml/examples/color_detection/lcd/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
